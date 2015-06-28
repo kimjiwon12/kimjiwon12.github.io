@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 40px 20px;
+}
+
+.nav { 
+  font-family:'Helvetica','Oswald', sans-serif;
+  font-size:20%; 
+}
+
+h1 {
+  margin: 0;
+  float: left;
+}
+
+ul {
+  float: right;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  float: left;
+  list-style: none;
+  margin: 10px;
+}
+img{
+  width: 50px;
+}
